@@ -8,11 +8,18 @@
             <title text="capture 1" customized="true"></title>
             <style key="system.spring-levels"></style>
             <auto-numbering style="disabled"></auto-numbering>
-            <scrollstate zoom="100" x="-221.75" y="-182.80"></scrollstate>
+            <scrollstate zoom="100" x="-266.44" y="26.14"></scrollstate>
+            <selection guid="NSTJADDH8b0ORWf8FAls5w" type="node" id="4"></selection>
             <main-centraltheme id="0"></main-centraltheme>
         </meta>
         <topics>
-            <topic id="0" parent="-1" guid="OobU825vTzJqE2GCUc47eg" x="-12.21" y="324.29" text="Встреча с песочником" textfmt="plain">
+            <topic id="0" parent="-1" guid="OobU825vTzJqE2GCUc47eg" x="-12.21" y="324.29" palette="0" colorinfo="-1" text="Встреча с песочником" textfmt="plain">
+                <style>
+                    <fillcolor r="204" g="235" b="162"></fillcolor>
+                    <strokecolor r="109" g="164" b="35"></strokecolor>
+                </style>
+                <fillcolor r="204" g="235" b="162"></fillcolor>
+                <strokecolor r="109" g="164" b="35"></strokecolor>
                 <note>ГЛАВА 1
 ВВЕДЕНИЕ: 
 
@@ -80,6 +87,7 @@
  - Я Том. Том Уайт сэр.
  - Хорошо Том. Давай я провожу тебя до дома, и постараюсь ответить на все твои вопросы, их у тебя наверное много, договорились?
  - Хорошо, сэр.
+ - И перестань так меня называть. Зови меня Доктор Брук.
 
 
 КОНЕЦ ПЕРВОГО ЭПИЗОДА</note>
@@ -107,7 +115,13 @@
 
 КОНЕЦ ПЕРВОГО ЭПИЗОДА</note>
             </topic>
-            <topic id="3" parent="0" guid="dGxk8wuhZTJvuh-IKurXRA" x="215.60" y="324.36" text="Притвориться\Nмертвым" textfmt="plain">
+            <topic id="3" parent="0" guid="dGxk8wuhZTJvuh-IKurXRA" x="215.60" y="324.36" palette="0" colorinfo="-1" text="Притвориться\Nмертвым" textfmt="plain">
+                <style>
+                    <fillcolor r="204" g="235" b="162"></fillcolor>
+                    <strokecolor r="109" g="164" b="35"></strokecolor>
+                </style>
+                <fillcolor r="204" g="235" b="162"></fillcolor>
+                <strokecolor r="109" g="164" b="35"></strokecolor>
                 <note>Том притворяется мертвым, затаивает дыхание и ждет.
 
 (А) Как бы глупо то не звучало, но я решил притвориться мертвым. И это сработало, в какой-то степени. Я закрыл глаза, и затаил дыхание. Существо ослабило хватку и медленно потащило меня к реке. 
@@ -117,10 +131,40 @@
 (О)(Д) Открыть глаза.
 (О)(Д) Не открывать глаза.</note>
             </topic>
-            <topic id="4" parent="3" guid="NSTJADDH8b0ORWf8FAls5w" x="393.02" y="259.10" text="Открыть глаза" textfmt="plain">
-                <note>(А)</note>
+            <topic id="4" parent="3" guid="NSTJADDH8b0ORWf8FAls5w" x="393.02" y="259.10" palette="0" colorinfo="-1" text="Открыть глаза" textfmt="plain">
+                <style>
+                    <fillcolor r="204" g="235" b="162"></fillcolor>
+                    <strokecolor r="109" g="164" b="35"></strokecolor>
+                </style>
+                <fillcolor r="204" g="235" b="162"></fillcolor>
+                <strokecolor r="109" g="164" b="35"></strokecolor>
+                <note>(А) Я решил приоткрыть глаза и увидел, что это существо отдаленно напоминало краба. Он тащил меня спиной к реке, пристально наблюдая за мной. Как только он увидел что я приоткрыл глаза. Он встал как вкопанный, он понял что я был жив. Он поднял свою здоровую клешню, как от куда-то выскочил человек в плаще и кинул в него бумы порошком. Краб запищал и бросился речку. Я смотрел на все это завороженный происшедшим.
+
+ - Ты в порядке?
+ - Да, сэр, спасибо.
+ - Меня зовут Декстер Брук. А тебя молодой человек?
+ - Том, Том Уайт, сэр.
+ - Ну что ж, Том. Дай я осмотрю твою ногу.
+ - (Протягивает ногу) Сэр, что это было?
+ - Обычный речной песочник, тебе повезло что он был еще мал иначе ты бы давно уже кормил рыб. С твоей ногой все в порядке. Очень умно было притвориться мертвым. Как ты додумался до этого?
+ - Моя мама, сэр. Она рассказывала мне сказку про охотника, который таким образом спасся от медведя.
+ - Твоя мать, этим рассказом спасла тебе жизнь.
+ - Да, сэр. Спасибо что спасли меня.
+ - Не за что. И перестань меня так называть, зови меня Доктор Брук, хорошо?
+ - Да, Сэр... То есть, Доктор Брук.
+ - Вот и славненько. Давай я провожу тебя до дома и постараюсь ответить на все твои вопросы. Их наверно у тебя много.
+ - Угу.
+
+
+КОНЕЦ ПЕРВОГО ЭПИЗОДА</note>
             </topic>
-            <topic id="5" parent="3" guid="GauHrReujAp7QkcCF-e7TQ" x="395.85" y="373.61" text="Не открывать глаза" textfmt="plain">
+            <topic id="5" parent="3" guid="GauHrReujAp7QkcCF-e7TQ" x="395.85" y="373.61" palette="0" colorinfo="-1" text="Не открывать глаза" textfmt="plain">
+                <style>
+                    <fillcolor r="204" g="235" b="162"></fillcolor>
+                    <strokecolor r="109" g="164" b="35"></strokecolor>
+                </style>
+                <fillcolor r="204" g="235" b="162"></fillcolor>
+                <strokecolor r="109" g="164" b="35"></strokecolor>
                 <note>(А) От испуга я даже не мог открыть глаза. И гадал, что же будет дальше. Я не знал что мне делать. Но тут я почувствовал как это существо отпустило меня и ужасно запищало. Я открыл глаза, и увидел, как в воду ныряет, что-то отдаленно похожее на краба. Я облегченно вздохнул. Но тут сзади донесся голос.
  
  - Здравствуй.
@@ -171,6 +215,22 @@
             <topic id="8" parent="7" guid="WhjuqlbWX0Eb5wYxO4_0eg" x="153.25" y="62.36" text="Встреча с Песочником" textfmt="plain"></topic>
             <topic id="9" parent="8" guid="bOfVDG6M4d9XIa4MN8AyGw" x="326.80" y="62.07" text="Дорога домой" textfmt="plain"></topic>
             <topic id="10" parent="9" guid="HCkxQCQxNYYrWXjHMWCs2A" x="463.88" y="61.86" text="Разговор дома" textfmt="plain"></topic>
+            <topic id="11" parent="-1" guid="LJUFvV3gG6RmzNKKDGAQLg" x="-52.37" y="596.75" palette="0" colorinfo="-1" text="Дорога домой" textfmt="plain">
+                <style>
+                    <fillcolor r="236" g="233" b="162"></fillcolor>
+                    <strokecolor r="166" g="160" b="33"></strokecolor>
+                </style>
+                <fillcolor r="236" g="233" b="162"></fillcolor>
+                <strokecolor r="166" g="160" b="33"></strokecolor>
+            </topic>
+            <topic id="12" parent="-1" guid="Ssjcjm4V62AZ_Wj_JKVfmw" x="-50.49" y="896.41" palette="0" colorinfo="-1" text="Разговор Дома" textfmt="plain">
+                <style>
+                    <fillcolor r="254" g="250" b="218"></fillcolor>
+                    <strokecolor r="228" g="203" b="8"></strokecolor>
+                </style>
+                <fillcolor r="254" g="250" b="218"></fillcolor>
+                <strokecolor r="228" g="203" b="8"></strokecolor>
+            </topic>
         </topics>
         <relations></relations>
     </mindmap>
